@@ -2,6 +2,7 @@
 
 img {
     height: 100vh;
+    min-width: 280px;
     display: block;
     margin: 0 auto; /* Center the image */
 }
